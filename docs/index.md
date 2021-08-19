@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+layout: page
+title: "Stuff goes here"
+
+## AI Safety in Africa
 
 You can use the [editor on GitHub](https://github.com/jcformanek/EA-Event-AI-Safety/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
