@@ -23,4 +23,4 @@ Then we would like to take the second part of the discussion into a more focused
 
 
 ### Contact
-For more information on the event please send an email to leo.karamanof@gmail.com.
+For more information on the event please send an email to leo{dot}karamanof{at}gmail{dot}com.
