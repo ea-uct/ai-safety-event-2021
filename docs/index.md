@@ -14,6 +14,8 @@ Effective Altruism is...
 ## AI Safety & Alignment
 AI safety & alignemnt is...
 
+## Guest Speakers
+Photos and bios of speakers go here.
 
 ## Discussion Agenda
 Firstly, we would like to discuss AI alignment more broadly. Why is AI alignment something we should be concerned about? How can we try to ensure that AGI is aligned with human values? How do we mitigate the existential risk posed by AGI? Professor Tommie Meyer suggested Stuart J. Russell's recent book "Human Compatible" as a framework to structure the discussion. We would like to see where panellists agree and disagree on his takes.
