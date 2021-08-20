@@ -9,7 +9,18 @@
 
 ## Effective Altruism
 
-Effective Altruism is...
+Effective Altruism (EA) is about doing good better. EA is a philosophy and social movement focused on answering one question: How can we best help others? Our resources are limited, so we have to use them wisely. Effective altruism is the project of:
+ 1) Using evidence and reason to find the most promising causes to work on.
+ 2) Taking action, by using our time and money to do the most good we can.
+
+Insert section on the normal stuff that EA works on, e.g. donating to effective charities, effective careers...
+
+Another position heald by many individuals in the EA community is that we should not only care about people alive today but also about all the indeviduals that will exist in the future. This philosophy is known as *longtermism* and says that we should carefully think about which threats pose the greatest risks to the future of humanity because these threats have the potential to cause immeasurable suffering for indeviduals in the future. Threats which have the potential to destroy humanity are known as *existential risks* and in the EA community we believe it is important for us to think about which of these risks are most likely, how devastating might they be and how can we mitigate the threat. Some of the highest ranking existential risks are:
+ - Climate change
+ - Pandemics
+ - Nuclear war
+
+What might be supprising to some people is that the EA community generally also sees powerful Artificial General Inteligence (AGI) as another significant existential risk.
 
 ## AI Safety & Alignment
 AI safety & alignemnt is...
