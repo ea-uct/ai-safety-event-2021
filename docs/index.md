@@ -27,13 +27,13 @@ AI safety & alignemnt is...
 
 ## Guest Speakers
 ### Tyna Eloundou
-![Tyna](/docs/images/tyna.jpg)
+![Tyna](./images/tyna.jpg)
 ### Pelonomi Moiloa
-![Pelonomi](/docs/images/pelonomi.png)
+![Pelonomi](./images/pelonomi.png)
 ### Tommie Meyer
-![Tommie](/docs/images/tommie.jpg)
+![Tommie](./images/tommie.jpg)
 ### Arnu Pretorius
-![Arnu](/docs/images/arnu.jpeg)
+![Arnu](./images/arnu.jpeg)
 
 ## Discussion Agenda
 Firstly, we would like to discuss AI alignment more broadly. Why is AI alignment something we should be concerned about? How can we try to ensure that AGI is aligned with human values? How do we mitigate the existential risk posed by AGI? Professor Tommie Meyer suggested Stuart J. Russell's recent book "Human Compatible" as a framework to structure the discussion. We would like to see where panellists agree and disagree on his takes.
