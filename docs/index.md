@@ -27,7 +27,7 @@ AGI could create huge amounts o value for the world. Like the industrial revolut
 
 ## Guest Speakers
 ### Tyna Eloundou
-> OpenAI research scholar
+> OpenAI research scholar.
 
 ![Tyna](./images/tyna.jpg)
 ### Pelonomi Moiloa
