@@ -53,5 +53,7 @@ Subsequently, the discussion will turn to relationship between AI development an
 ## Reading Recomendations
 We will use Stuart Russell's 2019 book [*Human Compatible*](https://www.goodreads.com/en/book/show/44767248-human-compatible) as a framework for the discussion. If you have not read the book before, we recommend reading the summary of the book on the EA website [here](https://forum.effectivealtruism.org/posts/tsHfFdAGehzoH6BZR/summary-of-stuart-russell-s-new-book-human-compatible). 
 
+Another useful resource is the talk given by Pelonomi Moiloa at the Deep Learning IndabaX in 2019. The talk was titled  *Protecting Machines From Us - Ethics And Bias* and can be found (here)[https://www.youtube.com/watch?v=J4ZNp92kEUM].
+
 ## Contact
 For more information on the event please send an email to leo{dot}karamanof{at}gmail{dot}com.
