@@ -10,23 +10,24 @@ https://jcformanek.github.io/EA-UCT-AI-Safety-Event/
 
 **Time:** 7PM (local time)
 
-**Location:** Online (register to get the link)
+**Location:** Online, hosted on Zoom (register for link)
 
 **Guest Speakers:** Tyna Eloundou, Pelonomi Moiloa, Arnu Pretorius, Tommie Meyer
 
 ## Effective Altruism
 
-Effective Altruism is...
+Effective Altruism is about doing good better: using evidence and reason to find the most promising causes to work on. Effective Altruism has identified the development of safe, properly-aligned artificial intelligence as a key cause area to secure the longterm future of humanity.
 
 ## AI Safety & Alignment
-AI safety & alignemnt is...
+AI safety & alignemnt is about ensuring that intelligent systems we develop are well-aligned with human values. Whilst it might seem trivial at first, developing super-intelligent machines that are connected to all of human knowledge and can interface with people is a highly technical challenge that requires serious thought.
 
 
 ## Discussion Agenda
-Firstly, we would like to discuss AI alignment more broadly. Why is AI alignment something we should be concerned about? How can we try to ensure that AGI is aligned with human values? How do we mitigate the existential risk posed by AGI? Professor Tommie Meyer suggested Stuart J. Russell's recent book "Human Compatible" as a framework to structure the discussion. We would like to see where panellists agree and disagree on his takes.
+The discussion will be structured into two sections and will be followed by 30 minutes of audience Q&A with the panellists.
 
+Why is AI alignment something we should be concerned about? How are people trying to ensure that AI will be aligned with human values? What is the most effective way to mitigate the existential risk posed by AI?
  
-Then we would like to take the second part of the discussion into a more focused direction: suppose we successfully manage the alignment problem and AGI does not pose any immediate existential risk to humanity, AI will none the less be a highly disruptive force to the world and global economy. Many say AI will be the next great industrial revolution. If that is the case, how can we ensure that this technology does not only benefit the developed world but has positive effects in Africa as well? Or will powerful AI in the hands of the developed world simply lead to greater exploitation of Africa and the developing world?
+Subsequently, the discussion will turn to relationship between AI development and the African continent. Suppose we successfully manage the alignment problem and AI does not pose any immediate existential risk to humanity, it will still be a highly disruptive force to the world and global economy. Many say AI will be the next great industrial revolution. If that is the case, how can we ensure that this technology does not only benefit the developed world but has positive effects in Africa as well? Or will powerful AI in the hands of the developed world simply lead to greater exploitation of Africa?
 
 
 ## Contact
