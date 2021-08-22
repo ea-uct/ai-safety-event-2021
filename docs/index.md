@@ -7,6 +7,8 @@
 
 **Guest Speakers:** Tyna Eloundou, Pelonomi Moiloa, Arnu Pretorius, Tommie Meyer
 
+**Moderated by:** Leo Karamanof, Claude Formanek
+
 ## Effective Altruism
 
 Effective Altruism (EA) is a philosophy and global movement focused on doing good better: using evidence and reason to find the most promising causes to work on. Effective Altruism has identified the development of safe, properly-aligned artificial intelligence (AI) as a key cause area to secure the longterm future of humanity.
