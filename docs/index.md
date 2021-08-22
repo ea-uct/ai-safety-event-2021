@@ -9,18 +9,14 @@
 
 ## Effective Altruism
 
-Effective Altruism (EA) is about doing good better. EA is a philosophy and social movement focused on answering one question: How can we best help others? Our resources are limited, so we have to use them wisely. Effective altruism is the project of:
- 1) Using evidence and reason to find the most promising causes to work on.
- 2) Taking action, by using our time and money to do the most good we can.
+Effective Altruism (EA) is a philosophy and global movement focused on doing good better: using evidence and reason to find the most promising causes to work on. Effective Altruism has identified the development of safe, properly-aligned artificial intelligence (AI) as a key cause area to secure the longterm future of humanity.
 
-Insert section on the normal stuff that EA works on, e.g. donating to effective charities, effective careers...
+[Effective Altruism Website](https://www.effectivealtruism.org/)
 
-Another position held by many individuals in the EA community is that we should not only care about people alive today but also about all the indeviduals that will exist in the future. This philosophy is known as *longtermism* and says that we should carefully think about which threats pose the greatest risks to the future of humanity because these threats have the potential to cause immeasurable suffering for indeviduals in the future. Threats which have the potential to destroy humanity are known as *existential risks* and in the EA community we believe it is important for us to think about which of these risks are most likely, how devastating might they be and how can we mitigate the threat. Some of the highest ranking existential risks are:
- - Climate change
- - Pandemics
- - Nuclear war
+### Effective Altruism UCT
+The University of Cape Town (UCT) has a local chapter of this movement that hosts talks and discussions on areas of interest. To find out about future events follow us [here](https://www.instagram.com/ea_uct/?hl=en).
 
-What might be supprising to some people is that the EA community generally also sees powerful Artificial General Inteligence (AGI) as another significant existential risk.
+![EA UCT Logo](
 
 ## AI Safety & Alignment
 AI safety & alignemnt is...
