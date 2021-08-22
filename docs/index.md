@@ -57,4 +57,5 @@ Another useful resource is the talk given by Pelonomi Moiloa at the Deep Learnin
 
 ## Contact
 Please register using the Google form at the top of this webpage. You will only be sent information and reminders about this event.
+
 For more information on the event please send an email to leo{dot}karamanof{at}gmail{dot}com.
