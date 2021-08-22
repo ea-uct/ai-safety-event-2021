@@ -3,7 +3,7 @@
 
 **Time:** 7PM (local time)
 
-**Location:** Online (register to get the link)
+**Platform:** Zoom (register to get the link)
 
 **Guest Speakers:** Tyna Eloundou, Pelonomi Moiloa, Arnu Pretorius, Tommie Meyer
 
