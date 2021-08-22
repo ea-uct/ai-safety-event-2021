@@ -39,7 +39,7 @@ AGI could create huge amounts o value for the world. Like the industrial revolut
 
 ![Tommie](./images/tommie.jpg)
 ### Arnu Pretorius
-> AI research scientist at InstaDeep.
+> Lead AI research scientist at InstaDeep.
 
 ![Arnu](./images/arnu.jpeg)
 
