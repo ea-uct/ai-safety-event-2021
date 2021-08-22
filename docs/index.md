@@ -13,7 +13,7 @@
 
 Effective Altruism (EA) is a philosophy and global movement focused on doing good better: using evidence and reason to find the most promising causes to work on. Effective Altruism has identified the development of safe, properly-aligned artificial intelligence (AI) as a key cause area to secure the longterm future of humanity. 
 
-Visit the EA website for more information, [here](https://www.effectivealtruism.org/).
+Visit the EA [website](https://www.effectivealtruism.org/) for more information.
 
 ### Effective Altruism UCT
 The University of Cape Town (UCT) has a local chapter of this movement that hosts talks and discussions on areas of interest. To find out about future events follow us [here](https://www.instagram.com/ea_uct/?hl=en).
