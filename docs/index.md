@@ -50,7 +50,7 @@ The first part of the discussion will tacke the issue of AI safety broadly. Why 
 
 Subsequently, the discussion will turn to the relationship between AI development and the African continent. Suppose we successfully manage the alignment problem and AI does not pose an immediate existential risk to humanity, it will nonetheless be a highly disruptive force to the world and global economy. Many say AI will be the next great industrial revolution. If that is the case, how can we ensure that this technology does not only benefit the developed world but has positive effects in Africa as well? Or will powerful AI in the hands of the developed world simply lead to greater exploitation of Africa?
 
-## Reading Recomendations
+## Reading Recommendations
 We will use Stuart Russell's 2019 book [*Human Compatible*](https://www.goodreads.com/en/book/show/44767248-human-compatible) as a framework for the first part of the discussion. If you have not read the book before, we recommend reading a summary of the book on the EA website [here](https://forum.effectivealtruism.org/posts/tsHfFdAGehzoH6BZR/summary-of-stuart-russell-s-new-book-human-compatible). 
 
 Another useful resource is the talk given by Pelonomi Moiloa at the Deep Learning IndabaX in 2019. The talk was titled  *Protecting Machines From Us - Ethics And Bias* and can be found [here](https://www.youtube.com/watch?v=J4ZNp92kEUM).
