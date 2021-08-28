@@ -27,7 +27,7 @@ If managed correctly, the arrival of AI could create vast amounts of wealth for 
 
 ## Guest Speakers
 ### Tyna Eloundou
-> OpenAI research scholar.
+> OpenAI member of policy staff.
 
 ![Tyna](./images/tyna.jpg)
 ### Pelonomi Moiloa
