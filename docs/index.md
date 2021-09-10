@@ -53,7 +53,7 @@ Subsequently, the discussion will turn to the relationship between AI developmen
 ## Reading Recommendations
 We will use Stuart Russell's 2019 book [*Human Compatible*](https://www.goodreads.com/en/book/show/44767248-human-compatible) as a framework for the first part of the discussion. If you have not read the book before, we recommend reading a summary of the book on the EA website [here](https://forum.effectivealtruism.org/posts/tsHfFdAGehzoH6BZR/summary-of-stuart-russell-s-new-book-human-compatible). 
 
-For our discussion on what AI will mean fro Africa we reccomend the following paper by the University of Pretoria. It covers the opertunities and challenges presented by AI in Africa. It is a very interesting and comprehensive overview of the topic. Read the paper online [here](https://www.up.ac.za/media/shared/7/ZP_Files/ai-for-africa.zp165664.pdf).
+For our discussion on what AI will mean for Africa we reccomend the following paper by the University of Pretoria. It covers the opertunities and challenges presented by AI in Africa. It is a very interesting and comprehensive overview of the topic. Read the paper online [here](https://www.up.ac.za/media/shared/7/ZP_Files/ai-for-africa.zp165664.pdf).
 
 Another useful resource is the talk given by Pelonomi Moiloa at the Deep Learning IndabaX in 2019. The talk was titled  *Protecting Machines From Us - Ethics And Bias* and can be found [here](https://www.youtube.com/watch?v=J4ZNp92kEUM).
 
